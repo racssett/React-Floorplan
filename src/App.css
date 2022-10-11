@@ -36,3 +36,23 @@
     transform: rotate(360deg);
   }
 }
+
+div {
+  border: 1px solid grey;
+  margin: 5px;
+  padding: 5px;
+}
+
+#room {
+  background-color: plum;
+  width: 300px;
+}
+
+#item {
+  background-color: papayawhip;
+  max-width: 50%
+}
+
+#house {
+  width: 400px;
+}
